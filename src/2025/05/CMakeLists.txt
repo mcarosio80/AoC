@@ -1,3 +1,3 @@
-add_executable(main25
+add_executable(main202505
     main.cpp
 )
